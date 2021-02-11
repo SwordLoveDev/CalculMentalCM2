@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-# Code by Nxstro Stress
+# Code by Sword
 
 #+---------------------------------------------------------------------+
 #+   Importation des différentes bibliothèques utiles pour le script   +
@@ -24,7 +24,7 @@ banner = """\033[1;00m\033[91m
 \033[96m| |    / _` | |/ __| | | | | | |\/| |/ _ \ '_ \| __/ _` | |
 \033[96m| |___| (_| | | (__| |_| | | | |  | |  __/ | | | || (_| | |
 \033[96m \_____\__,_|_|\___|\__,_|_| |_|  |_|\___|_| |_|\__\__,_|_|
-                      \033[96mCodé par \033[91mNxstro                                    
+                      \033[96mCodé par \033[91mSword                                   
 \033[96m 
 \033[96m                   \033[96mTapez \033[91maide\033[96m pour commencer !	
 
@@ -76,7 +76,7 @@ info = """
 
 \033[00m[+]\033[96m Création de \033[91mCalcul Mental\033[96m :
 \033[00m- \033[96mCréer le \033[91m07/25/2020\033[96m
-\033[00m- \033[96mCodé entièrement par Nxstro
+\033[00m- \033[96mCodé entièrement par Sword
 \033[00m- \033[96mVersion \033[91m1.0 Beta
 """
 
